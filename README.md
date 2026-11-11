@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I'm A. S. Asfakunnobi Nahid 👋
 
 ### Flutter & Mobile Application Developer
@@ -44,7 +43,7 @@ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio" alt="Git, GitHub, VS Code, Postman, Android Studio" />
 </p>
 
-:::Let's Connect
+Let's Connect
 I'm always interested in connecting with developers, discussing ideas,
 and collaborating on meaningful projects.
 - Email: syednahid042@gmail.com
@@ -53,8 +52,8 @@ and collaborating on meaningful projects.
 - Portfolio:
   asfakunnobinahid.vercel.app
 - GitHub: github.com/sanahid120
-::: {align="center"}
+
 **Build. Learn. Grow.** 🚀
 
 *Thanks for visiting my profile!*
-:::
+
