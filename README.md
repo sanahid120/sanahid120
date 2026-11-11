@@ -9,7 +9,7 @@ Web**.
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://asfakunnobinahid.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanahid042)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syednahid042@gmail.com)
-:::About Me
+
 I'm a Computer Science and Engineering graduate and a developer focused
 on building mobile applications with Flutter and Dart. I enjoy
 turning ideas into practical software, integrating APIs and third-party
